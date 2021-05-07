@@ -5304,24 +5304,31 @@ top:310px;
 width:26px;
 height:30px;
 }
-.qm_otchuzhdenie {
+.qm_russiankvartal {
 position:absolute;
 left:973px;
-top:160px;
+top:310px;
 width:26px;
 height:30px;
 }
-.qm_thefogs {
+.qm_otchuzhdenie {
 position:absolute;
 left:973px;
 top:340px;
 width:26px;
 height:30px;
 }
-.qm_fogs {
+.qm_thefogs {
 position:absolute;
 left:973px;
 top:370px;
+width:26px;
+height:30px;
+}
+.qm_fogs {
+position:absolute;
+left:973px;
+top:400px;
 width:26px;
 height:30px;
 }
